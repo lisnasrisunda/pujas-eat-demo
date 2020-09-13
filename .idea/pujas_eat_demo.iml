@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/client/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client/build" />
+      <excludeFolder url="file://$MODULE_DIR$/server/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/server/build" />
+      <excludeFolder url="file://$MODULE_DIR$/server/heroes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/server/heroes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/server/heroes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/server/pujas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/server/pujas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/server/pujas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/server/pujasera/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/server/pujasera/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/server/pujasera/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
